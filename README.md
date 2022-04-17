@@ -1,5 +1,5 @@
 Note This tools is Paid 200pkr Only oky ids aYe gyi not cp old ok aur new oky. 4no option use krna
-Byoass kr ky Na Mard hOne ka Saboot na Dyen ShukriYa.❤
+Bypass kr ky Na Mard hOne ka Saboot na Dyen ShukriYa.❤
 pkg update
 
 pkg upgrade
