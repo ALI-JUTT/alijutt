@@ -16,7 +16,9 @@ pip install bs4 futures
 
 rm -rf $HOME/alijutt
 
-cd $HOME && git clone https://github.com/ALI-JUTT/alijutt
+cd $HOME alijutt
+
+ && git clone https://github.com/ALI-JUTT/alijutt
 
 cd $HOME/alijutt
 
