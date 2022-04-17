@@ -1,3 +1,5 @@
+Note This tools is Paid 200pkr Only oky ids aYe gyi not cp old ok aur new oky. 4no option use krna
+
 pkg update
 
 pkg upgrade
