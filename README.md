@@ -1,6 +1,7 @@
 # alijutt This Tools 32bit  Aur 64bit BrO.
 
 • termux-setup-storage
+
 • pkg update -y
 
 • pkg upgrade -y
