@@ -7,9 +7,9 @@ pkg upgrade
 
 pkg install python
 
-pkg install git curl openssl
-
 pkg install git
+
+pkg install git curl openssl
 
 pkg install nodejs-lts
 
