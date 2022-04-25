@@ -1,5 +1,6 @@
 # alijutt 
-# This Tools 32bit  Aur 64bit BrO.
+# This Tools 32bit
+# Aur 64bit BrO.
 
 • termux-setup-storage
 
