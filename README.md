@@ -1,4 +1,5 @@
-# alijutt
+# alijutt This Tools 32bit Aur 64bit BrO.
+
 
 pkg update
 
@@ -8,15 +9,21 @@ pkg install python
 
 pkg install git curl openssl
 
-termux-setup-storage
+pkg install git
 
-pip install requests mechanize
+pkg install nodejs-lts
+
+pip install npm
+
+pip install requests
+
+pip install mechanize
 
 pip install bs4 futures
 
 rm -rf $HOME/alijutt
 
-cd $HOME && git clone https://github.com/ALI-JUTT/alijutt
+git clone https://github.com/ALI-JUTT/alijutt
 
 cd $HOME/alijutt
 
