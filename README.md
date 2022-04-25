@@ -1,4 +1,4 @@
-# alijutt This Tools 32bit Aur 64bit BrO.
+# alijutt This Tools 32bit  Aur 64bit BrO.
 
 
 pkg update
