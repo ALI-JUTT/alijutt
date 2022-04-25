@@ -32,4 +32,4 @@
 
 • cd alijutt
 
-• python ok.py
+• python Asad-Jutt.py
