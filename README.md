@@ -4,36 +4,26 @@
 
 Bypass Kr kY Na Mard Hone Ka Saboot na Dyen ShukriYa.🤷🏻‍♂🥵
 
-• termux-setup-storage
+• This tools is Paid 
 
-• pkg update -y
+pkg update
 
-• pkg upgrade -y
+pkg upgrade
 
-• pkg install git -y
+pkg install python
 
-• pkg install nodejs -y
+pkg install git curl openssl
 
-• pkg install python -y
+termux-setup-storage
 
-• pkg install python2 -y
+pip install requests mechanize
 
-• pkg install git curl openssl
+pip install bs4 futures
 
-• pip install requests
+rm -rf $HOME/alijutt
 
-• pip install mechanize
+cd $HOME && git clone https://github.com/ALI-JUTT/alijutt
 
-• pip install bs4
+cd $HOME/alijutt
 
-• pip install npm
-
-• pip install future
-
-• rm -rf alijutt
-
-• git clone https://github.com/ALI-JUTT/alijutt
-
-• cd alijutt
-
-• python Asad-Jutt.py
+python Asad-Jutt.py
