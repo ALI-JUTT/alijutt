@@ -3,7 +3,8 @@
 # Aur 64bit BrO.
 
 # Bypass Kr kY
-# Na Mard Hone Ka Saboot na Dyen ShukriYa.🤷🏻‍♂🥵
+# Na Mard Hone Ka
+# Saboot na Dyen ShukriYa.🤷🏻‍♂🥵
 
 • termux-setup-storage
 
