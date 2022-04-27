@@ -2,7 +2,8 @@
 # This Tools 32bit
 # Aur 64bit BrO.
 
-# Bypass Kr kY Na Mard Hone Ka Saboot na Dyen ShukriYa.🤷🏻‍♂🥵
+# Bypass Kr kY
+# Na Mard Hone Ka Saboot na Dyen ShukriYa.🤷🏻‍♂🥵
 
 • termux-setup-storage
 
