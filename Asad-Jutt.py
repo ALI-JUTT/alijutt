@@ -1,16 +1,16 @@
 import os, platform
- 
 try:
-   import requests
- 
+    import requests
 except:
-   os.system('pip2 install requests')
- 
+    os.system('pip install requests')
 import requests
- 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from JuttBrother import Asad
-    Asad()
+    from Asad import cheak
+    cheak()
 elif bit == '32bit':
-    print('YOUR PHONE IS NOT SUPPORTED BRO')
+    from Ali import cheak
+    cheak()
+else:
+    print('\n YOUR DEVICE IS NOT SUPPORT THIS COMMAND')
+    os.system('exit')
