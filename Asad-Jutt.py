@@ -1,2 +1,2 @@
-from Asad import asad
-asad()
+from Asad import cheak
+cheak()
