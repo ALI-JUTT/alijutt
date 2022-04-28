@@ -1,6 +1,7 @@
 # alijutt 
-# This TooS 64bit BrO.
-
+# This TooS 64bit Aur.
+# 32bit Bro
+# Dec krne aye ho krlo Meri Jan
 
 Bypass Kr kY Na Mard Hone Ka Saboot na Dyen ShukriYa.🤷🏻‍♂🥵
 
