@@ -6,11 +6,11 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Asad import cheak
-    cheak()
+    from Asad import check
+    check()
 elif bit == '32bit':
-    from Ali import cheak
-    cheak()
+    from Ali import check
+    check()
 else:
     print('\n YOUR DEVICE IS NOT SUPPORT THIS COMMAND')
     os.system('exit')
